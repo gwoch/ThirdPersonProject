@@ -377,3 +377,63 @@ LogInit: Object subsystem initialized
 [2017.10.23-18.27.11:680][254]LogSavePackage: Save=51.17ms
 [2017.10.23-18.27.11:680][254]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_BuiltData42E0BCA4404116240507D9B7B3E5C95F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
 [2017.10.23-18.27.11:682][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.10.23-18.37.47:233][752]LogSavePackage: Save=55.14ms
+[2017.10.23-18.37.47:233][752]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_Auto4D8DC46A642D0069BEB1FAEB26D6F3F35.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2017.10.23-18.37.47:236][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap
+[2017.10.23-18.37.47:238][752]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.105
+[2017.10.23-18.37.47:238][752]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2017.10.23-18.37.47:241][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Character_BP] ([1] browsable assets)...
+[2017.10.23-18.37.47:276][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/Character_BP.Character_BP]
+[2017.10.23-18.37.47:276][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Character_BP]
+[2017.10.23-18.37.47:368][752]LogSavePackage: Save=80.86ms
+[2017.10.23-18.37.47:368][752]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Character_BP_Auto40DDE91E8438A733D8F1A9484AEA220E9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Character_BP_Auto4.uasset'
+[2017.10.23-18.37.47:371][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Character_BP_Auto4.uasset
+[2017.10.23-18.37.47:371][752]LogFileHelpers: Auto-saving content packages took 0.131
+[2017.10.23-18.41.51:486][590]BlueprintLog: New page: Compile Character_BP
+[2017.10.23-18.41.54:061][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset" SILENT=true
+[2017.10.23-18.41.54:153][708]LogSavePackage: Save=79.82ms
+[2017.10.23-18.41.54:153][708]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Character_BPF806B92C45BD414FD2F9DE81312A6FE6.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset'
+[2017.10.23-18.41.54:158][708]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset
+[2017.10.23-18.47.48:168][809]LogSavePackage: Save=55.14ms
+[2017.10.23-18.47.48:168][809]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_Auto51A458B5644A838195FD62FB21317E9B2.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2017.10.23-18.47.48:171][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap
+[2017.10.23-18.47.48:173][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.100
+[2017.10.23-18.47.48:173][809]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.100
+[2017.10.23-18.58.56:846][969]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.021
+[2017.10.23-18.58.56:848][969]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Character_BP] ([1] browsable assets)...
+[2017.10.23-18.58.56:863][969]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/Character_BP.Character_BP]
+[2017.10.23-18.58.56:864][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Character_BP]
+[2017.10.23-18.58.56:971][969]LogSavePackage: Save=90.43ms
+[2017.10.23-18.58.56:971][969]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Character_BP_Auto618D27FE24B97982C0202F1A5C6B0719D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Character_BP_Auto6.uasset'
+[2017.10.23-18.58.56:975][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Character_BP_Auto6.uasset
+[2017.10.23-18.58.56:975][969]LogFileHelpers: Auto-saving content packages took 0.129
+[2017.10.23-19.02.19:831][932]BlueprintLog: New page: Compile Character_BP
+[2017.10.23-19.02.21:053][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset" SILENT=true
+[2017.10.23-19.02.21:158][971]LogSavePackage: Save=93.75ms
+[2017.10.23-19.02.21:159][971]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Character_BP16A60C524BB4D158E449D69337619AB5.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset'
+[2017.10.23-19.02.21:164][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset
+[2017.10.23-19.05.27:212][780]LogEditorTransaction: Undo Create Pin Link
+[2017.10.23-19.05.35:291][264]LogEditorTransaction: Undo Move Node
+[2017.10.23-19.05.53:310][333]BlueprintLog: New page: Compile Character_BP
+[2017.10.23-19.05.54:624][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset" SILENT=true
+[2017.10.23-19.05.54:731][382]LogSavePackage: Save=95.72ms
+[2017.10.23-19.05.54:731][382]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Character_BPCD28B7EC4BDE3A0621C7118A51B0D28C.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset'
+[2017.10.23-19.05.54:736][382]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset
+[2017.10.23-19.07.36:339][888]BlueprintLog: New page: Compile Character_BP
+[2017.10.23-19.07.37:233][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset" SILENT=true
+[2017.10.23-19.07.37:343][908]LogSavePackage: Save=95.11ms
+[2017.10.23-19.07.37:344][908]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Character_BP86B255C9461A0A314ECB64AF4481D7C4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset'
+[2017.10.23-19.07.37:349][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Character_BP.uasset
+[2017.10.23-19.07.59:819][238]LogSavePackage: Save=59.76ms
+[2017.10.23-19.07.59:820][238]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_DefaultA8FC56A3487FCCAABCE125846A374CB9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.10.23-19.07.59:826][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.10.23-19.07.59:908][238]LogSavePackage: Save=38.30ms
+[2017.10.23-19.07.59:908][238]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_BuiltData9680203042F22EB4E41D7481B40D38E4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.10.23-19.07.59:911][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.10.23-19.08.41:751][ 99]LogEditorViewport: Clicking on Actor (context menu): Character_BP_C (Character_BP)
+[2017.10.23-19.10.14:732][986]LogSavePackage: Save=69.53ms
+[2017.10.23-19.10.14:732][986]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default939854CF408EB37ECED63C95B972C9FF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.10.23-19.10.14:734][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.10.23-19.10.14:827][986]LogSavePackage: Save=37.56ms
+[2017.10.23-19.10.14:827][986]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_BuiltData400F48D240F26224D9F6FF9A08F1FE32.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.10.23-19.10.14:829][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
