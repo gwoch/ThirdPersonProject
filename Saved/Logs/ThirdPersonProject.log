@@ -437,3 +437,195 @@ LogInit: Object subsystem initialized
 [2017.10.23-19.10.14:827][986]LogSavePackage: Save=37.56ms
 [2017.10.23-19.10.14:827][986]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_BuiltData400F48D240F26224D9F6FF9A08F1FE32.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
 [2017.10.23-19.10.14:829][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.10.23-19.11.10:321][444]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{89479a84-6add-49b9-858b-fde0f5c4e5e6} was removed. Shutting down audio device.
+[2017.10.23-19.11.11:115][447]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{89479a84-6add-49b9-858b-fde0f5c4e5e6} was removed. Shutting down audio device.
+[2017.10.23-19.44.37:928][487]LogHttp: Warning: 0000019C89A7F700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.23-19.44.37:928][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19c05423fb8 [can pipeline])
+[2017.10.23-19.44.37:928][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 1 (Re-using existing connection! (#35) with host datarouter.ol.epicgames.com)
+[2017.10.23-19.44.37:928][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.81.108) port 443 (#35))
+[2017.10.23-19.44.37:928][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 3 (upload completely sent off: 11364 out of 11364 bytes)
+[2017.10.23-19.44.37:928][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.10.23-19.44.37:928][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.10.23-19.44.37:929][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 6 (Closing connection 35)
+[2017.10.23-19.44.37:929][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D68C084-4B7E-C767-AF30-7B838D826DF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=a202bbab4bfb72a6c72ab59bf5105770%7Ca6b7376151474e159cf10430cd50646e%7C20bc636a-a4d7-41a8-a2dc-7238c7cddcf0&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.10.23-19.44.37:929][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.23-19.44.37:929][487]LogHttp: Warning: 0000019C89A7F700: libcurl info message cache 9 (Closing connection 36)
+[2017.10.23-22.28.01:345][154]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x19c05422e60 [can pipeline])
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 1 (Re-using existing connection! (#98) with host datarouter.ol.epicgames.com)
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.13.16) port 443 (#98))
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 3 (upload completely sent off: 1732 out of 1732 bytes)
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.10.23-22.28.20:373][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 6 (Closing connection 98)
+[2017.10.23-22.28.20:374][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D68C084-4B7E-C767-AF30-7B838D826DF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=a202bbab4bfb72a6c72ab59bf5105770%7Ca6b7376151474e159cf10430cd50646e%7C20bc636a-a4d7-41a8-a2dc-7238c7cddcf0&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.10.23-22.28.20:374][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.23-22.28.20:374][212]LogHttp: Warning: 0000019CA2954400: libcurl info message cache 9 (Closing connection 99)
+[2017.10.23-22.48.59:698][350]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2017.10.23-22.49.01:347][519]Cmd: DELETE
+[2017.10.23-22.49.01:348][519]Cmd: ACTOR DELETE
+[2017.10.23-22.49.01:351][519]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.10.23-22.49.01:408][519]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2017.10.23-22.49.01:895][575]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2017.10.23-22.49.01:989][577]Cmd: DELETE
+[2017.10.23-22.49.01:989][577]Cmd: ACTOR DELETE
+[2017.10.23-22.49.01:989][577]LogEditorActor: Deleted Actor: AmbientSound
+[2017.10.23-22.49.02:008][577]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.10.23-22.49.43:239][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.10.23-22.49.44:178][943]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.23-22.49.58:611][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.23-22.49.59:279][646]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.23-22.50.31:119][289]Cmd: DELETE
+[2017.10.23-22.50.31:120][289]Cmd: ACTOR DELETE
+[2017.10.23-22.50.31:120][289]LogEditorActor: Deleted Actor: Actor
+[2017.10.23-22.50.31:139][289]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.10.23-22.50.35:694][810]Cmd: TRANSACTION UNDO
+[2017.10.23-22.50.35:694][810]LogEditorTransaction: Undo Create Actors
+[2017.10.23-22.50.37:746][995]Cmd: TRANSACTION UNDO
+[2017.10.23-22.50.37:746][995]LogEditorTransaction: Undo Create Actors
+[2017.10.23-22.50.39:981][246]Cmd: TRANSACTION UNDO
+[2017.10.23-22.50.39:981][246]LogEditorTransaction: Undo Create Actors
+[2017.10.23-22.51.00:805][702]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.10.23-22.51.01:886][803]Cmd: TRANSACTION UNDO
+[2017.10.23-22.51.01:886][803]LogEditorTransaction: Undo Brush Add
+[2017.10.23-22.51.10:967][844]LogActorFactory: Actor Factory created Sphere
+[2017.10.23-22.51.12:103][976]LogActorFactory: Actor Factory created Sphere
+[2017.10.23-22.51.16:660][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.10.23-22.51.17:630][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.10.23-22.51.43:557][369]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.10.23-22.51.44:434][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.10.23-22.51.59:544][928]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.10.23-22.52.00:357][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2017.10.23-22.52.06:113][614]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.23-22.52.06:132][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.06:132][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.23-22.52.06:133][614]PIE: New page: PIE session: Minimal_Default (24 Oct 2017 00:52:06)
+[2017.10.23-22.52.06:133][614]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.23-22.52.06:145][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012583s)
+[2017.10.23-22.52.06:147][614]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.23-22.52.06:148][614]LogPlayLevel: PIE: World Init took: (0.002049s)
+[2017.10.23-22.52.06:148][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015006s)
+[2017.10.23-22.52.06:171][614]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.23-22.52.06:179][614]LogInit: FAudioDevice initialized.
+[2017.10.23-22.52.06:242][614]LogLoad: Game class is 'MyGame_C'
+[2017.10.23-22.52.06:246][614]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.23-23.52.06
+[2017.10.23-22.52.06:247][614]LogWorld: Bringing up level for play took: 0.003060
+[2017.10.23-22.52.06:252][614]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.052
+[2017.10.23-22.52.06:252][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.17:107][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.17:199][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.17:231][771]LogActorComponent: ReregisterComponent: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Starter_Background_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2017.10.23-22.52.18:091][831]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.23-22.52.18:111][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.18:111][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.23-22.52.18:111][831]PIE: New page: PIE session: Minimal_Default (24 Oct 2017 00:52:18)
+[2017.10.23-22.52.18:111][831]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.23-22.52.18:121][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009823s)
+[2017.10.23-22.52.18:122][831]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.23-22.52.18:122][831]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2017.10.23-22.52.18:122][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011075s)
+[2017.10.23-22.52.18:151][831]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.23-22.52.18:157][831]LogInit: FAudioDevice initialized.
+[2017.10.23-22.52.18:230][831]LogLoad: Game class is 'MyGame_C'
+[2017.10.23-22.52.18:233][831]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.23-23.52.18
+[2017.10.23-22.52.18:234][831]LogWorld: Bringing up level for play took: 0.002912
+[2017.10.23-22.52.18:241][831]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.041
+[2017.10.23-22.52.18:241][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.30:631][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.30:733][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.23-22.52.30:774][ 18]LogActorComponent: ReregisterComponent: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Starter_Background_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2017.10.23-22.52.35:234][390]LogSavePackage: Save=89.92ms
+[2017.10.23-22.52.35:234][390]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_DefaultA889AF764B9AF9246A33CB9ACBDFCE02.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.10.23-22.52.35:242][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.10.23-22.52.35:373][390]LogSavePackage: Save=65.65ms
+[2017.10.23-22.52.35:373][390]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_BuiltData22C83A2A48D867453E576781FEF1A047.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.10.23-22.52.35:378][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.10.23-22.54.33:272][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.10.23-22.54.33:467][558]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.10.23-23.02.35:654][438]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.020
+[2017.10.23-23.02.35:656][438]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/ThirdPersonRun] ([1] browsable assets)...
+[2017.10.23-23.02.35:695][438]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Animations/ThirdPersonRun.ThirdPersonRun]
+[2017.10.23-23.02.35:695][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/ThirdPersonRun]
+[2017.10.23-23.02.35:728][438]LogSavePackage: Save=16.15ms
+[2017.10.23-23.02.35:728][438]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/ThirdPersonRun_Auto76FBF6E26438EF3FD0E1ADC981013F2F6.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Animations/ThirdPersonRun_Auto7.uasset'
+[2017.10.23-23.02.35:731][438]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Animations/ThirdPersonRun_Auto7.uasset
+[2017.10.23-23.02.35:731][438]LogFileHelpers: Auto-saving content packages took 0.077
+[2017.10.23-23.12.36:182][303]LogSavePackage: Save=8.67ms
+[2017.10.23-23.12.36:182][303]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/ThirdPersonRunE66B1FA747E41F3BDD336399C4D5FD0B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Animations/ThirdPersonRun.uasset'
+[2017.10.23-23.12.36:186][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/Character/Animations/ThirdPersonRun.uasset
+[2017.10.23-23.15.03:697][463]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0011 seconds. Added 2 classes and 2 folders.
+[2017.10.23-23.22.39:832][985]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.019
+[2017.10.23-23.22.39:834][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Dust] ([1] browsable assets)...
+[2017.10.23-23.22.39:841][985]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Dust.P_Dust]
+[2017.10.23-23.22.39:841][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Dust]
+[2017.10.23-23.22.39:866][985]LogSavePackage: Save=23.12ms
+[2017.10.23-23.22.39:866][985]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/P_Dust_Auto819CDCDB949A0101A95512A8DF35BD729.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Particles/P_Dust_Auto8.uasset'
+[2017.10.23-23.22.39:868][985]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Particles/P_Dust_Auto8.uasset
+[2017.10.23-23.22.39:868][985]LogFileHelpers: Auto-saving content packages took 0.035
+[2017.10.23-23.33.53:992][663]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.022
+[2017.10.23-23.33.53:994][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Dust] ([1] browsable assets)...
+[2017.10.23-23.33.54:001][663]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Dust.P_Dust]
+[2017.10.23-23.33.54:001][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Dust]
+[2017.10.23-23.33.54:026][663]LogSavePackage: Save=23.18ms
+[2017.10.23-23.33.54:026][663]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/P_Dust_Auto98D0D069D4654551B898D24839B91DC5A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Particles/P_Dust_Auto9.uasset'
+[2017.10.23-23.33.54:028][663]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Particles/P_Dust_Auto9.uasset
+[2017.10.23-23.33.54:028][663]LogFileHelpers: Auto-saving content packages took 0.036
+[2017.10.23-23.40.25:714][568]LogSavePackage: Save=21.96ms
+[2017.10.23-23.40.25:714][568]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/P_Dust7EEED97C4003852E0497EA8814F5315F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Particles/P_Dust.uasset'
+[2017.10.23-23.40.25:717][568]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Particles/P_Dust.uasset
+[2017.10.23-23.40.36:689][725]LogSavePackage: Save=14.79ms
+[2017.10.23-23.40.36:690][725]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/P_DustCDF1B7A14F86577CE12B40A08D2BCD35.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Particles/P_Dust.uasset'
+[2017.10.23-23.40.36:692][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Particles/P_Dust.uasset
+[2017.10.23-23.40.38:160][821]LogCascade: Quitting Cascade. FXSystem=0x0000019C0497D4E0
+[2017.10.23-23.41.28:432][198]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.10.23-23.41.28:477][198]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.10.23-23.42.38:806][428]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.10.23-23.45.14:766][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.018
+[2017.10.23-23.45.14:769][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animations/ThirdPersonRun] ([1] browsable assets)...
+[2017.10.23-23.45.14:769][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/ThirdPersonRun]
+[2017.10.23-23.45.14:791][ 53]LogSavePackage: Save=5.29ms
+[2017.10.23-23.45.14:791][ 53]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/ThirdPersonRun_Auto0C234619F42688C7C9E9C128434A4116C.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Animations/ThirdPersonRun_Auto0.uasset'
+[2017.10.23-23.45.14:792][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Animations/ThirdPersonRun_Auto0.uasset
+[2017.10.23-23.45.14:792][ 53]LogFileHelpers: Auto-saving content packages took 0.025
+[2017.10.23-23.55.15:312][250]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.019
+[2017.10.23-23.55.15:314][250]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Animations/ThirdPersonRun] ([1] browsable assets)...
+[2017.10.23-23.55.15:314][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/ThirdPersonRun]
+[2017.10.23-23.55.15:336][250]LogSavePackage: Save=5.31ms
+[2017.10.23-23.55.15:336][250]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/ThirdPersonRun_Auto12C0FC4EA4DDBBCE704B1818A4CFDE8BA.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Animations/ThirdPersonRun_Auto1.uasset'
+[2017.10.23-23.55.15:338][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/Character/Animations/ThirdPersonRun_Auto1.uasset
+[2017.10.23-23.55.15:339][250]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Particles/P_Dust] ([1] browsable assets)...
+[2017.10.23-23.55.15:346][250]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/StarterContent/Particles/P_Dust.P_Dust]
+[2017.10.23-23.55.15:346][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Particles/P_Dust]
+[2017.10.23-23.55.15:388][250]LogSavePackage: Save=25.03ms
+[2017.10.23-23.55.15:388][250]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/P_Dust_Auto1F221764C48ED3E58A23F1691D7C8D7D4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Particles/P_Dust_Auto1.uasset'
+[2017.10.23-23.55.15:390][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Autosaves/Game/StarterContent/Particles/P_Dust_Auto1.uasset
+[2017.10.23-23.55.15:390][250]LogFileHelpers: Auto-saving content packages took 0.078
+[2017.10.24-00.20.23:593][776]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c2477a82-8792-4e56-8742-002b22f92a69} was removed. Shutting down audio device.
+[2017.10.24-00.26.25:256][881]LogSavePackage: Save=20.07ms
+[2017.10.24-00.26.25:256][881]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/P_Dust19E1D3A64C7527D0CC3C5B8913238766.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Particles/P_Dust.uasset'
+[2017.10.24-00.26.25:261][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Particles/P_Dust.uasset
+[2017.10.24-00.26.31:083][230]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.24-00.26.31:098][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.24-00.26.31:098][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.24-00.26.31:098][230]PIE: New page: PIE session: Minimal_Default (24 Oct 2017 02:26:31)
+[2017.10.24-00.26.31:099][230]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.24-00.26.31:107][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008800s)
+[2017.10.24-00.26.31:108][230]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.24-00.26.31:109][230]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2017.10.24-00.26.31:109][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010271s)
+[2017.10.24-00.26.31:130][230]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.24-00.26.31:178][230]LogInit: FAudioDevice initialized.
+[2017.10.24-00.26.31:237][230]LogLoad: Game class is 'MyGame_C'
+[2017.10.24-00.26.31:241][230]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2017.10.24-01.26.31
+[2017.10.24-00.26.31:242][230]LogWorld: Bringing up level for play took: 0.004125
+[2017.10.24-00.26.31:247][230]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.049
+[2017.10.24-00.26.31:247][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.24-00.26.46:524][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.24-00.26.46:588][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.24-00.28.23:661][917]LogSavePackage: Save=58.88ms
+[2017.10.24-00.28.23:661][917]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_DefaultB615717E471DD91B3525748915503CA3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.10.24-00.28.23:664][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.10.24-00.28.23:751][917]LogSavePackage: Save=34.30ms
+[2017.10.24-00.28.23:751][917]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Saved/Minimal_Default_BuiltDataBEA739F54B4D6A6A24056AB8BD3BA321.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.10.24-00.28.23:753][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/ThirdPersonProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
